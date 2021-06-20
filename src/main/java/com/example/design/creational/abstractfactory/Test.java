@@ -5,6 +5,16 @@ public class Test {
         JavaFactory javaFactory = new JavaFactory();
         JavaArticle article = javaFactory.getArticle();
         article.produe();
-        System.out.println("ddd");
+        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");
+        System.out.println("hhhhahah ");
     }
 }
