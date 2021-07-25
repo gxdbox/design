@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("dddd");
         String test = "test";
         String test2 = "tests";
+        String test3 = "test3";
     }
 }
