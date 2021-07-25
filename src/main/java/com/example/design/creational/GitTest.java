@@ -4,5 +4,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("dddd");
         String test = "test";
+        String test2 = "tests";
     }
 }
